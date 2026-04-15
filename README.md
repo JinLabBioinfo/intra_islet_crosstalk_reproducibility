@@ -13,6 +13,7 @@ This repository contains scripts and source data supporting the reproducibility 
 
 - For spatial analysis, if you are using a Seurat version different from the one reported in the paper, you may need to run `UpdateSeuratObject()` after reading the `.rds` files.
 - `spatial/_utility_funs.r` contains helper functions for transcript coordinate operations (adding/subsetting molecules) that are not yet implemented in Seurat, which some may find useful for their own purposes.
+- PANC-DB cohort reads downsampling utility is in https://github.com/JinLabBioinfo/encapsulated_downsampling.
 
 ## Data Availability
 
