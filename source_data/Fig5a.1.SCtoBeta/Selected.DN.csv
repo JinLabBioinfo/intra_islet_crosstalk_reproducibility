@@ -1,0 +1,9 @@
+source,target,ligand,receptor,prob,pval,interaction_name,interaction_name_2,pathway_name,annotation,evidence,source.target,prob.original,group.names,dataset,p_raw,p_cat
+PSC,Beta,RA-ALDH1A1,RXRG_CRABP2,0.090809435,3,RetinoicAcid-RA-ALDH1A1_RXRG_CRABP2,RA-ALDH1A1 - (RXRG+CRABP2),RA,Non-protein Signaling,uniprot;reactome,PSC -> Beta (H),1.65E-05,PSC -> Beta,H,1.65E-05,p < 0.01
+PSC,Beta,RA-ALDH1A1,RXRG_CRABP2,0.080243598,3,RetinoicAcid-RA-ALDH1A1_RXRG_CRABP2,RA-ALDH1A1 - (RXRG+CRABP2),RA,Non-protein Signaling,uniprot;reactome,PSC -> Beta (T2D),3.87E-06,PSC -> Beta,T2D,3.87E-06,p < 0.01
+PSC,Beta,RA-ALDH1A3,RXRG_CRABP2,0.102682587,3,RetinoicAcid-RA-ALDH1A3_RXRG_CRABP2,RA-ALDH1A3 - (RXRG+CRABP2),RA,Non-protein Signaling,uniprot;reactome,PSC -> Beta (H),5.90E-05,PSC -> Beta,H,5.90E-05,p < 0.01
+PSC,Beta,RA-ALDH1A3,RXRG_CRABP2,0.091803961,3,RetinoicAcid-RA-ALDH1A3_RXRG_CRABP2,RA-ALDH1A3 - (RXRG+CRABP2),RA,Non-protein Signaling,uniprot;reactome,PSC -> Beta (T2D),1.86E-05,PSC -> Beta,T2D,1.86E-05,p < 0.01
+PSC,Beta,RA-ALDH1A3,RXRA_CRABP2,0.101291694,3,RetinoicAcid-RA-ALDH1A3_RXRA_CRABP2,RA-ALDH1A3 - (RXRA+CRABP2),RA,Non-protein Signaling,uniprot;reactome,PSC -> Beta (H),5.16E-05,PSC -> Beta,H,5.16E-05,p < 0.01
+PSC,Beta,RA-ALDH1A3,RXRA_CRABP2,0.09608845,3,RetinoicAcid-RA-ALDH1A3_RXRA_CRABP2,RA-ALDH1A3 - (RXRA+CRABP2),RA,Non-protein Signaling,uniprot;reactome,PSC -> Beta (T2D),3.02E-05,PSC -> Beta,T2D,3.02E-05,p < 0.01
+PSC,Beta,LAMA4,SV2A,0.141437199,3,LAMA4_SV2A,LAMA4 - SV2A,LAMININ,ECM-Receptor,KEGG: hsa04512,PSC -> Beta (H),0.000849999,PSC -> Beta,H,0.000849999,p < 0.01
+PSC,Beta,LAMA4,SV2A,0.137875953,3,LAMA4_SV2A,LAMA4 - SV2A,LAMININ,ECM-Receptor,KEGG: hsa04512,PSC -> Beta (T2D),0.00070812,PSC -> Beta,T2D,0.00070812,p < 0.01
