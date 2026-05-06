@@ -1,5 +1,7 @@
 # Islet stellate cells sustain human beta-cell function through an RBP4-dependent retinoid paracrine loop
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20059249.svg)](https://doi.org/10.5281/zenodo.20059249)
+
 This repository contains scripts and source data supporting the reproducibility of analysis for this study.
 
 ## Layout
